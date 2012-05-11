@@ -8,6 +8,12 @@ div.logo
 	-webkit-box-shadow: 0 0 5px 1px #888888;
 	-moz-box-shadow: 0 0 5px 1px #888888;
 	box-shadow: 0 0 5px 1px #888888;
-	margin: 0 auto;
-	width: 802px;
+
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	width:802px;
+	height:255px;
+	margin-top: -128px; /*set to a negative number 1/2 of your height*/
+	margin-left: -401px; /*set to a negative number 1/2 of your width*/
 }
