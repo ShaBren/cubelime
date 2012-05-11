@@ -5,10 +5,6 @@ body
 
 div.logo
 {
-	-webkit-box-shadow: 0 0 5px 1px #888888;
-	-moz-box-shadow: 0 0 5px 1px #888888;
-	box-shadow: 0 0 5px 1px #888888;
-
 	position:absolute;
 	top: 50%;
 	left: 50%;
